@@ -19,6 +19,8 @@ public class testFeature1Steps {
 	@Given("User is on Practice Landing Page")
 	public void user_is_on_practice_landing_page() {
 		System.out.println("User landed on practice page");
+		System.out.println("This change is made through cloned project i.e. CucumberAutomationDemo");
+		System.out.println("Testing of Cucumber project with git");
 		//Assert.assertTrue(false);
 	}
 	
